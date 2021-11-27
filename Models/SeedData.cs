@@ -48,7 +48,7 @@ namespace LibApp.Models
                         DurationInMonths = 12,
                         DiscountRate = 20
                     });
-                context.SaveChanges();
+                //context.SaveChanges();
             }
         }
     }
